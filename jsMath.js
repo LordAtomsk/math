@@ -4,7 +4,7 @@ let add = x + y;
 let sub = x - y;
 let multi = x * y;
 let divide = x/y
-console.log(add);
-console.log(sub);
-console.log(multi);
-console.log(divide);
+console.log(`1 + 2 = ${add}`); // 1 + 2 = 3
+console.log(`1 - 2 = ${sub}`);  
+console.log(`1 * 2 = ${multi}`);
+console.log(`1/2 = ${divide}`);
